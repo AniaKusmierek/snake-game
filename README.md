@@ -1,2 +1,2 @@
 
-# the game retro snake with React
+# the game retro of the snake with React
